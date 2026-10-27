@@ -1,12 +1,10 @@
-# CV_Example
 # Hoja de Vida
 
-## Nombre Completo
+## Luis Santiago Cucunuba Mendivelso
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [lluisccucunuba@gmail.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
@@ -17,8 +15,8 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Servicio Nacional de Aprendizaje** _(2026 - 2029)_
+- Analisis de Desarrollo de Software.
 
 ## 💡 Habilidades
 - **Habilidad 1**
